@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Məbləğin Xırdalanması
+Comment=Əskinaslarla pul xırdalama tətbiqi
+Exec=/home/isgnderx/aysu22/run_desktop.sh
+Icon=/home/isgnderx/aysu22/PulXirdalama/Resources/azn_500.png
+Terminal=false
+Categories=Utility;Application;
